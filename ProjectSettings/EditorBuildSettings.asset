@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/ArrastrarObjeto.unity
+    guid: eeff0301301d80749bad18c27e399dfd
   m_configObjects: {}
